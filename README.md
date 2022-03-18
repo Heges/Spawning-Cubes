@@ -1,6 +1,7 @@
 # Spawning-Cubes <br>
+![SpawningCubes](https://user-images.githubusercontent.com/28998924/159059514-326bd7d2-aaad-4f72-bcb6-a26cbb40f0b4.gif) <br>
 
-Тестовое задание для работодателя Unity версия 2020.3.30f1 <br>
+Unity версия 2020.3.30f1 <br>
 Тестовое задание Junior Unity Developer
 Задание
 Необходимо разработать Unity-проект. Приложение должно спаунить 3D-кубы, которые затем
